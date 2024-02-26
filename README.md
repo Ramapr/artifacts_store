@@ -1,6 +1,7 @@
 # artifacts_store
 
-intro 
+Service that helps store large files form ML experiments such as models, datasets and etc. 
+Works as self-hosted solution based on open-source: [minio](https://min.io/) + [dvc](https://dvc.org/) . 
 
 
 # getting start 
